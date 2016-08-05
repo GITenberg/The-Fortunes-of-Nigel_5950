@@ -1,0 +1,48 @@
+_repo: The-Fortunes-of-Nigel_5950
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 5950/5950-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Templeton, Laurence
+    - Malagrowther, Malachi
+    - Scott, Sir Walter
+    - Cleishbotham, Jedediah
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: "The Fortunes of Nigel (1822) is a novel written by Sir Walter Scott.\
+  \ The setting is some time between 1616 and 1625.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5950'
+  wikidata: Q3230799
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- James I, 1603-1625 -- Fiction'
+- !lcsh 'Scots -- England -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'James I, King of England, 1566-1625 -- Fiction'
+- !lcsh 'London (England) -- History -- 17th century -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Fortunes of Nigel
+url: http://www.gutenberg.org/ebooks/5950
+wikipedia:
+- https://hy.wikipedia.org/wiki/%D5%86%D5%A1%D5%B5%D5%BB%D5%A5%D5%AC%D5%AB_%D5%A1%D6%80%D5%AF%D5%A1%D5%AE%D5%B6%D5%A5%D6%80%D5%A8
+- https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9D%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D0%BB%D0%B0
+- https://fr.wikipedia.org/wiki/Les_Aventures_de_Nigel
+- https://ar.wikipedia.org/wiki/%D8%AD%D8%B8%D9%88%D8%B8_%D9%86%D8%A7%D9%8A%D8%AC%D9%84
+- https://en.wikipedia.org/wiki/The_Fortunes_of_Nigel
